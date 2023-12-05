@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nebenezerscrouge or Benny
-- 👀 I’m interested in mechanical engineering and physics
-- 🌱 I’m currently learning python, javascript, and c++
+- 👋 Hi, I’m @Nebenezerscrouge or Benji
+- 👀 I’m interested in doing good
+- 🌱 I’m currently learning python, linux, computer systems
 - 💞️ I’m looking to collaborate on future projects and the journey of learning to code
 - Pitter patter let's get at 'er
 
